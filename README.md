@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @CHPeake
 - 👀 I’m interested in coding with AI
 - 🌱 I’m dusting off some rust and learning some new skills
-- 💞️ I’m looking to collaborate on (not sure yet)
-- 📫 How to reach me (not sure yet)
 - ⚡ Fun fact: really love biltong!
 
 <!---
