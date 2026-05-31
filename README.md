@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CHPeake
 - 👀 I’m interested in coding with AI
-- 🌱 Busting off some rust and learning some new skills
+- 🌱 Dusting off some rust and learning some new skills
 - 🤖 Cursor fan
-- ⚡ Fun fact: really love biltong!
+- ⚡ Fun fact: really love coffee and biltong!
 
 <!---
 CHPeake/CHPeake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
