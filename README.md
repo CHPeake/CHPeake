@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @CHPeake
 - 👀 I’m interested in coding with AI
-- 🌱 I’m dusting off some rust and learning some new skills
+- 🌱 Busting off some rust and learning some new skills
+- 🤖 Cursor fan
 - ⚡ Fun fact: really love biltong!
 
 <!---
