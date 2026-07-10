@@ -4,9 +4,10 @@ I’m a product-focused developer building modern web solutions with Laravel, Re
 
 🚀 Currently Building
 
-- 📊 LipwigMetrics — Marketing analytics and ROI reporting for financial advisory firms.
-- 🔒 LipwigFiles — Secure encrypted file sharing for regulated businesses.
-- 👀 DayWatch — Smart product alerts for South African online shoppers.
+- 📊 **LipwigMetrics** — Marketing analytics and ROI reporting for financial advisory firms.
+- 🔒 **LipwigFiles** — Secure encrypted file sharing for regulated businesses.
+- 👀 **DayWatch** — Smart product alerts for South African online shoppers.
+- 📣 **Marketing & Campaign Automation** — AI-powered workflows, reporting, and automation for digital marketing and client engagement.
 
 🛠️ Tech Stack
 
