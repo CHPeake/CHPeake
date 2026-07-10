@@ -10,33 +10,15 @@ I’m a product-focused developer building modern web solutions with Laravel, Re
 
 🛠️ Tech Stack
 
-Backend
-
-- Laravel
-- PHP
-- PostgreSQL
-- Redis
-
-Frontend
-
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- Inertia.js
-
-Infrastructure
-
-- Laravel Cloud
-- Vercel
-- GitHub Actions
-
-AI & Automation
-
-- Cursor
-- OpenAI
-- Anthropic
-- MCP
+| **Backend** | **Frontend** | **Infrastructure** | **AI & Automation** |
+|--------------|--------------|--------------------|----------------------|
+| Laravel | React | Laravel Cloud | Cursor |
+| PHP | Next.js | Vercel | Anthropic / Claude |
+| PostgreSQL | TypeScript | GitHub Actions | OpenAI |
+| Redis | Inertia.js | Git | MCP |
+| REST APIs | Vite | | AI SDKs |
+| Eloquent ORM | Tailwind CSS | | Workflow Automation |
+| Queue Workers | HTML5 / CSS3 | | Prompt Engineering |
 
 🌱 Current Focus
 
