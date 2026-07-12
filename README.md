@@ -1,6 +1,6 @@
 Hi, I’m Clifford (@CHPeake) 👋
 
-I’m a product-focused developer building modern web solutions with Laravel, React, Next.js, TypeScript, and AI. I enjoy turning complex business challenges into simple, elegant software with clean architecture and thoughtful design.
+I'm a product-focused developer building modern web applications with Laravel, React, TypeScript, and AI. I also run **[Brehnor Communications](https://brehnorcomms.com/)**, where I help businesses simplify complex messaging and build digital communication and automation solutions.
 
 🚀 Currently Building
 
